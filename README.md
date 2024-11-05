@@ -1,3 +1,5 @@
+![Hashiwokakero Puzzle Implementation](screenshot.png)
+
 # Hashiwokakero Puzzle
 
 Bridges (Japanese: Hashiwokakero; [Puzzle Bridges](https://www.puzzle-bridges.com/)) is a puzzle played on a square grid with the following rules:
@@ -11,9 +13,6 @@ Bridges (Japanese: Hashiwokakero; [Puzzle Bridges](https://www.puzzle-bridges.co
 This application is a web-based implementation of the Hashiwokakero puzzle, which includes an interactive grid.
 
 Created in June 2023.
-
-## Screenshot
-![Hashiwokakero Puzzle Implementation](screenshot.png)
 
 ## Usage Instructions
 1. Clone or download the repository.
